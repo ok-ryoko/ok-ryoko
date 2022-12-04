@@ -4,8 +4,8 @@ Let’s write high-quality source code together and share what we learn!
 
 I’m an independent software developer who seeks to cultivate the following:
 
-- systems required to be well-documented, stable and minimal;
-- great developer experiences, and
+- systems required to have a well-documented, stable and minimal implementation;
+- great developer experiences and communities, and
 - creative expression.
 
 I value continuous improvement, knowledge sharing, integrity and objectivity.
