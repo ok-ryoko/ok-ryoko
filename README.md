@@ -1,26 +1,29 @@
-Let’s write high-quality source code together and share what we learn!
+Let’s write code together and share what we learn!
 
 ### About me
 
-I’m an independent software developer who seeks to cultivate the following:
+I’m an independent software developer who seeks to cultivate:
 
-- systems required to have a well-documented, stable and minimal implementation;
-- great developer experiences and communities, and
-- creative expression.
+- Creativity, continuous improvement, integrity, transparency and objectivity
+- Great developer experiences and communities
+- Software that is correct, reliable, robust, secure and easy to use and work on
 
-I value continuous improvement, knowledge sharing, integrity and objectivity.
+My work in the open source world is totally voluntary. I declare no conflicts of interest.
+
+If you’ve reached out to me privately or in one of the repositories I own, please allow me up to 1 week to respond before following up.
 
 ### Areas of activity/interest
 
-- Low-level systems programming
+- Low-level programming
+- System design and the reduction of complexity
 - Development and security operations
 - System administration
 - Technical and scientific writing
-- Computer graphics
+- Graphic design and typesetting
 
 ### Hyperlinks
 
-- [Ryoko’s Tech Stack] — curated lists of technologies I use or have used
+- [Ryoko’s Tech Stack] — curated lists of technologies I am using or have used
 
 ---
 
