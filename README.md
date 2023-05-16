@@ -1,6 +1,8 @@
 Let’s write code together and share what we learn!
 
-### About me
+<details>
+
+<summary>About me</summary>
 
 I’m an independent software developer who seeks to cultivate:
 
@@ -12,7 +14,11 @@ My work in the open source world is totally voluntary. I declare no conflicts of
 
 If you’ve reached out to me privately or in one of the repositories I own, please allow me up to 1 week to respond before following up.
 
-### Areas of activity/interest
+</details>
+
+<details>
+
+<summary>Areas of activity/interest</summary>
 
 - Low-level programming
 - System design and the reduction of complexity
@@ -21,9 +27,15 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 - Technical and scientific writing
 - Graphic design and typesetting
 
-### Hyperlinks
+</details>
+
+<details>
+
+<summary>Hyperlinks</summary>
 
 - [Ryoko’s Tech Stack] — curated lists of technologies I am using or have used
+
+</details>
 
 ---
 
