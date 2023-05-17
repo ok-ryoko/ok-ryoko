@@ -2,7 +2,7 @@ Let’s write code together and share what we learn!
 
 <details>
 
-<summary>About me</summary>
+<summary><b>About me</b></summary>
 
 I’m an independent software developer who seeks to cultivate:
 
@@ -18,7 +18,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 <details>
 
-<summary>Areas of activity/interest</summary>
+<summary><b>Areas of activity/interest</b></summary>
 
 - Low-level programming
 - System design and the reduction of complexity
@@ -31,7 +31,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 <details>
 
-<summary>Hyperlinks</summary>
+<summary><b>Hyperlinks</b></summary>
 
 - [Ryoko’s Tech Stack] — curated lists of technologies I am using or have used
 
