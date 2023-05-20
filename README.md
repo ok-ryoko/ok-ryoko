@@ -41,6 +41,6 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 Profile picture courtesy of [Waifu Diffusion v1.3] and the [AMD ROCm OpenCL implementation]
 
-[Ryoko’s Tech Stack]: https://gist.github.com/ok-ryoko/84a9a7a7c1a82b6ba30016db91f78c9f
+[Ryoko’s Tech Stack]: https://gist.github.com/ok-ryoko/b6a15c9eaae0fd4b16b5a329a4da70fb
 [Waifu Diffusion v1.3]: https://huggingface.co/hakurei/waifu-diffusion-v1-3
 [AMD ROCm OpenCL implementation]: https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation
