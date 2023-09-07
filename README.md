@@ -1,33 +1,8 @@
-Let’s write code together and share what we learn!
+I’m an independent software developer.
 
-<details>
-
-<summary><b>About me</b></summary>
-
-I’m an independent software developer who seeks to cultivate:
-
-- Creativity, continuous improvement, integrity, transparency and objectivity
-- Great developer experiences and communities
-- Software that is correct, reliable, robust, secure and easy to use and work on
-
-My work in the open source world is totally voluntary. I declare no conflicts of interest.
+All my work is currently done on a voluntary basis. I declare no conflicts of interest.
 
 If you’ve reached out to me privately or in one of the repositories I own, please allow me up to 1 week to respond before following up.
-
-</details>
-
-<details>
-
-<summary><b>Areas of activity/interest</b></summary>
-
-- Low-level programming
-- System design and the reduction of complexity
-- Development and security operations
-- System administration
-- Technical and scientific writing
-- Graphic design and typesetting
-
-</details>
 
 <details>
 
