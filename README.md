@@ -2,6 +2,8 @@ I’m an independent software developer.
 
 All my work is currently done on a voluntary basis. I declare no conflicts of interest.
 
+You can contact me using the committer email address associated with any one of my recent commits.
+
 If you’ve reached out to me privately or in one of the repositories I own, please allow me up to 1 week to respond before following up.
 
 <details>
