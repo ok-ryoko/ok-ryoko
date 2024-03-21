@@ -8,7 +8,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 <details>
 
-<summary><b>Writing</b></summary>
+<summary><b>Raw technical writing</b></summary>
 
 - [SUID-root Binaries in Fedora Server 38]
 - [SUID-root Binaries in Fedora Workstation 38]
@@ -18,7 +18,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 <details>
 
-<summary><b>Hyperlinks</b></summary>
+<summary><b>Miscellanea</b></summary>
 
 - [Ryoko’s Tech Stack] — curated lists of technologies I am using or have used
 
