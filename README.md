@@ -13,6 +13,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 - [SUID-root Binaries in Fedora Server 38]
 - [SUID-root Binaries in Fedora Workstation 38]
 - [SUID-root Binaries in Fedora Workstation 39]
+- [SUID-root Binaries in Fedora Workstation 40]
 
 </details>
 
@@ -31,6 +32,7 @@ Profile picture courtesy of [Waifu Diffusion v1.3] and the [AMD ROCm OpenCL impl
 [SUID-root Binaries in Fedora Server 38]: https://gist.github.com/ok-ryoko/1ff42a805d496cb1ca22e5cdf6ddefb0
 [SUID-root Binaries in Fedora Workstation 38]: https://gist.github.com/ok-ryoko/e909c1d905313af72e760f0c5bb7e8d9
 [SUID-root Binaries in Fedora Workstation 39]: https://gist.github.com/ok-ryoko/df15bfb7b3032f3f093f0865f3efb39b
+[SUID-root Binaries in Fedora Workstation 40]: https://gist.github.com/ok-ryoko/f9c5ddd4eaa41c6aef88197e0d3a3ac2
 [Ryoko’s Tech Stack]: https://gist.github.com/ok-ryoko/b6a15c9eaae0fd4b16b5a329a4da70fb
 [Waifu Diffusion v1.3]: https://huggingface.co/hakurei/waifu-diffusion-v1-3
 [AMD ROCm OpenCL implementation]: https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation
