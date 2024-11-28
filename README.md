@@ -10,7 +10,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 <summary><b>Raw technical writing</b></summary>
 
-- [SUID-root Binaries in Fedora Server 38]
+- [SUID-root Binaries in Fedora Custom OS 38]
 - [SUID-root Binaries in Fedora Workstation 38]
 - [SUID-root Binaries in Fedora Workstation 39]
 - [SUID-root Binaries in Fedora Workstation 40]
@@ -29,7 +29,7 @@ If you’ve reached out to me privately or in one of the repositories I own, ple
 
 Profile picture courtesy of [Waifu Diffusion v1.3] and the [AMD ROCm OpenCL implementation]
 
-[SUID-root Binaries in Fedora Server 38]: https://gist.github.com/ok-ryoko/1ff42a805d496cb1ca22e5cdf6ddefb0
+[SUID-root Binaries in Fedora Custom OS 38]: https://gist.github.com/ok-ryoko/1ff42a805d496cb1ca22e5cdf6ddefb0
 [SUID-root Binaries in Fedora Workstation 38]: https://gist.github.com/ok-ryoko/e909c1d905313af72e760f0c5bb7e8d9
 [SUID-root Binaries in Fedora Workstation 39]: https://gist.github.com/ok-ryoko/df15bfb7b3032f3f093f0865f3efb39b
 [SUID-root Binaries in Fedora Workstation 40]: https://gist.github.com/ok-ryoko/f9c5ddd4eaa41c6aef88197e0d3a3ac2
